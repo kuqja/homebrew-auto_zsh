@@ -2,7 +2,7 @@ class AutoZsh < Formula
   desc "Automates Zsh setup with Oh My Zsh and plugins"
   homepage "https://github.com/kuqja/homebrew-auto_zsh"
   url "https://github.com/kuqja/homebrew-auto_zsh/archive/refs/heads/main.zip"
-  sha256 "8a468d78642cbbb0e012d5bd08b60c0eb5e921431e503cf987ea61343cb42b28"
+  sha256 "d24791bae23f5bc6481ff97c54e9707a7b9f3a515eaed29938108cb52ad90db5"
   version "1.0.0"
 
   def install
